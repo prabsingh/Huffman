@@ -3,8 +3,10 @@
 struct Node
 {
 	string symbol;
+	int freq;
 	Node * lChild;
 	Node * rChild;
+	string code;
 };
 
 void createTree(string filename, Node* root);

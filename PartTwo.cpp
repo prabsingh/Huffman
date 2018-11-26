@@ -7,7 +7,6 @@ struct Node
 	Node * lChild;
 	Node * rChild;
 	string code;
-
 };
 
 struct compare {
