@@ -16,6 +16,7 @@
 #include <queue>
 #include <sstream>
 #include <fstream>
+#include <bitset>
 
 using namespace std;
 
