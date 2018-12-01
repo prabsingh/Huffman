@@ -1,5 +1,11 @@
 #include "utility.h"
 
+/*
+Team 7
+Prabhdeep Singh
+Christopher Goebel
+*/
+
 struct Node
 {
 	string symbol;

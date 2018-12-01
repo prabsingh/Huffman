@@ -1,5 +1,11 @@
 #include "utility.h"
 
+/*
+Team 7
+Prabhdeep Singh
+Christopher Goebel
+*/
+
 int main() {
 	//map to hold char and freq
 	map<char, int> freqTable = {};

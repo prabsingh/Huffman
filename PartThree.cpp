@@ -1,5 +1,11 @@
 #include "utility.h"
 
+/*
+Team 7
+Prabhdeep Singh
+Christopher Goebel
+*/
+
 void readCodeTable(string filename, map<string, string> & charCodeMap);
 void encodeFile(string inputFilename, map<string, string> & codetable, string outputFilename);
 

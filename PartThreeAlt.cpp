@@ -1,5 +1,11 @@
 #include "utility.h"
 
+/*
+Team 7
+Prabhdeep Singh
+Christopher Goebel
+*/
+
 void readCodeTableAlt(string filename, map<string, string> & charCodeMap);
 void encodeFileBinary(string inputFilename, map<string, string> & codetable, string outputFilename);
 
